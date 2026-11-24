@@ -1,0 +1,619 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ · saved %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ · saved %2$@"
+          }
+        }
+      }
+    },
+    "%@ are older than a year · %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ are older than a year · %2$@"
+          }
+        }
+      }
+    },
+    "%@ is complete. %lld nights this month." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ is complete. %2$lld nights this month."
+          }
+        }
+      }
+    },
+    "%@. Past-you was busy." : {
+
+    },
+    "%lld days this week, %lld of %lld stars this month" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld days this week, %2$lld of %3$lld stars this month"
+          }
+        }
+      }
+    },
+    "%lld done today" : {
+
+    },
+    "%lld in a minute. Thorough." : {
+
+    },
+    "%lld of %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld of %2$lld"
+          }
+        }
+      }
+    },
+    "%lld screenshots" : {
+      "comment" : "VoiceOver value of a Library row: the number of screenshots in a category.",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld screenshot"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld screenshots"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld screenshots are waiting" : {
+      "comment" : "N1.title",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld screenshot is waiting"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld screenshots are waiting"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld screenshots waiting, %lld days this week, %lld of %lld stars this month" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld screenshots waiting, %2$lld days this week, %3$lld of %4$lld stars this month"
+          }
+        }
+      }
+    },
+    "%lld years old. Practically vintage." : {
+
+    },
+    "A few screenshots a day" : {
+
+    },
+    "A new star tonight. %lld windows lit this week." : {
+      "comment" : "S2.caption",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "A new star tonight. %lld window lit this week."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "A new star tonight. %lld windows lit this week."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "A weekend find." : {
+
+    },
+    "A year in the dark. Still needed?" : {
+
+    },
+    "About" : {
+
+    },
+    "Add" : {
+
+    },
+    "Add a note" : {
+
+    },
+    "Add to Calendar" : {
+
+    },
+    "Added" : {
+
+    },
+    "Added %@" : {
+
+    },
+    "All caught up" : {
+
+    },
+    "All processing happens on your iPhone." : {
+
+    },
+    "Allow Full Access" : {
+
+    },
+    "Attend" : {
+
+    },
+    "Buy" : {
+
+    },
+    "Call" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Categories" : {
+
+    },
+    "Category" : {
+
+    },
+    "Choose category" : {
+
+    },
+    "Close" : {
+
+    },
+    "Contact" : {
+
+    },
+    "Continue" : {
+
+    },
+    "Cook" : {
+
+    },
+    "Copy Text" : {
+
+    },
+    "Copy the text or share it to your password manager or a locked note." : {
+
+    },
+    "Couldn’t load this screenshot" : {
+      "comment" : "S1, the image of the screenshot could not be loaded."
+    },
+    "Couldn’t save the screenshot" : {
+
+    },
+    "Daily reminder" : {
+
+    },
+    "Daily Review" : {
+
+    },
+    "Delete" : {
+
+    },
+    "Delete from Photos" : {
+
+    },
+    "Delete the screenshot" : {
+
+    },
+    "Deleted screenshots stay there for 30 days. Open Photos and empty it to remove this one for good." : {
+
+    },
+    "Details" : {
+
+    },
+    "Discard Changes" : {
+
+    },
+    "Do" : {
+
+    },
+    "Done" : {
+
+    },
+    "Each evening, Shot by Shot shows you a few old screenshots. Delete them, keep them, or act on them." : {
+
+    },
+    "Empty Recently Deleted" : {
+
+    },
+    "Every window is lit. Nothing left to sort." : {
+
+    },
+    "Freed this month" : {
+
+    },
+    "Fresh one. Barely had time to forget it." : {
+
+    },
+    "Full Access" : {
+
+    },
+    "Future-you says thanks. Or sorry." : {
+
+    },
+    "Get %lld screenshots every evening at %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get %1$lld screenshots every evening at %2$@."
+          }
+        }
+      }
+    },
+    "Go" : {
+
+    },
+    "Hidden until you tap Show" : {
+
+    },
+    "Hide in Photos" : {
+
+    },
+    "Inbox" : {
+      "comment" : "I1.title. Tab label and navigation title of the Inbox tab."
+    },
+    "Inbox needs access to all photos" : {
+
+    },
+    "Info" : {
+
+    },
+    "Inspire" : {
+
+    },
+    "It may be in iCloud or no longer in Photos." : {
+      "comment" : "S1, under the title of the state where the image could not be loaded."
+    },
+    "It may have been deleted from Photos." : {
+
+    },
+    "It moves to Recently Deleted in Photos." : {
+
+    },
+    "It waited a year. It can wait one more tap." : {
+
+    },
+    "Keep" : {
+
+    },
+    "Keep Editing" : {
+
+    },
+    "Keep in %@" : {
+
+    },
+    "Keep in Private" : {
+
+    },
+    "Keep, delete, or pretend you never saw it?" : {
+
+    },
+    "Later" : {
+
+    },
+    "Library" : {
+      "comment" : "L1.title. Tab label and navigation title of the Library tab."
+    },
+    "Limited Access" : {
+
+    },
+    "Limited photo access" : {
+
+    },
+    "Listen" : {
+
+    },
+    "Looks private" : {
+
+    },
+    "Mark as Done" : {
+
+    },
+    "Monday morning screenshot. Bold." : {
+
+    },
+    "More" : {
+
+    },
+    "Move & Delete…" : {
+
+    },
+    "Move it somewhere safe" : {
+
+    },
+    "Move to…" : {
+
+    },
+    "Newest" : {
+
+    },
+    "Next Week" : {
+
+    },
+    "No screenshots yet" : {
+
+    },
+    "None" : {
+
+    },
+    "Not sensitive" : {
+
+    },
+    "Note" : {
+
+    },
+    "Nothing good gets screenshotted at %@." : {
+
+    },
+    "Nothing saved yet" : {
+
+    },
+    "Older than some of your apps." : {
+
+    },
+    "Oldest" : {
+
+    },
+    "One of %lld from the same minute." : {
+
+    },
+    "Open in Maps" : {
+
+    },
+    "Open Link" : {
+
+    },
+    "Open Settings" : {
+
+    },
+    "Other" : {
+
+    },
+    "Past-you thought this mattered." : {
+
+    },
+    "Photos access" : {
+
+    },
+    "Pick Date…" : {
+
+    },
+    "Privacy" : {
+
+    },
+    "Private" : {
+
+    },
+    "Private is locked" : {
+
+    },
+    "Read" : {
+
+    },
+    "Remind" : {
+
+    },
+    "Remind me" : {
+
+    },
+    "Remind Me Daily" : {
+
+    },
+    "Reminder" : {
+
+    },
+    "Remove from Library" : {
+
+    },
+    "Remove from Shot by Shot" : {
+
+    },
+    "Rename Categories" : {
+
+    },
+    "Reset" : {
+
+    },
+    "Reset category names?" : {
+
+    },
+    "Reset to Defaults" : {
+
+    },
+    "Retry" : {
+
+    },
+    "Review" : {
+
+    },
+    "Review %lld" : {
+
+    },
+    "Review %lld More" : {
+
+    },
+    "Review %lld now" : {
+
+    },
+    "Review screenshots" : {
+
+    },
+    "Save" : {
+
+    },
+    "Save Screenshot" : {
+
+    },
+    "Saved %lld years ago. For later, apparently." : {
+
+    },
+    "Screenshot" : {
+
+    },
+    "Screenshot not found" : {
+
+    },
+    "Screenshot reminder" : {
+
+    },
+    "Skip" : {
+      "comment" : "S1, the only action for a screenshot that could not be loaded: it stays in the inbox."
+    },
+    "screenshots on your iPhone" : {
+
+    },
+    "Screenshots per session" : {
+
+    },
+    "Screenshots sync to iCloud and can be read by apps with photo access. Move it somewhere safe, then delete it." : {
+
+    },
+    "Screenshots you keep will appear here." : {
+
+    },
+    "Secure Screenshot" : {
+
+    },
+    "Select More Photos" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Share…" : {
+
+    },
+    "Shot by Shot reviews screenshots directly from your library." : {
+
+    },
+    "Shot by Shot sees only the screenshots you selected. Daily picks from your whole library need full access." : {
+
+    },
+    "Show" : {
+
+    },
+    "Show done" : {
+
+    },
+    "Size" : {
+
+    },
+    "Sort" : {
+
+    },
+    "Status" : {
+
+    },
+    "Still warm." : {
+
+    },
+    "Take a minute to decide what to keep." : {
+
+    },
+    "Take a screenshot and it will show up in your Inbox." : {
+
+    },
+    "Taken" : {
+
+    },
+    "Taken at %@. No questions asked." : {
+
+    },
+    "This may contain a password" : {
+
+    },
+    "This month" : {
+
+    },
+    "This seemed important at the time." : {
+
+    },
+    "This week" : {
+
+    },
+    "This Weekend" : {
+
+    },
+    "Time" : {
+
+    },
+    "Tomorrow" : {
+
+    },
+    "Tonight" : {
+
+    },
+    "Try" : {
+
+    },
+    "Undo" : {
+
+    },
+    "Unlock with Face ID" : {
+
+    },
+    "Use Face ID to view these screenshots." : {
+
+    },
+    "Version" : {
+
+    },
+    "Watch" : {
+
+    },
+    "Weekend-you had plans." : {
+
+    },
+    "You saved this for a reason. Probably." : {
+
+    },
+    "Your screenshots never leave your iPhone." : {
+
+    }
+  },
+  "version" : "1.0"
+}

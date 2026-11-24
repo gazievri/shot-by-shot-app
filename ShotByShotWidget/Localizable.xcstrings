@@ -1,0 +1,50 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "A few screenshots a day": {
+      "comment": "Widget gallery description. Same as O1.title."
+    },
+    "Done for today": {
+      "comment": "W1.done"
+    },
+    "Done for today, %lld nights this month": {
+      "comment": "W1.done.a11y. VoiceOver label of the whole widget.",
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Done for today, %lld night this month"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Done for today, %lld nights this month"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Open Shot by Shot to set up": {
+      "comment": "W1, no photo access yet."
+    },
+    "Shot by Shot": {
+      "comment": "Widget gallery name."
+    },
+    "night this month": {
+      "comment": "W1.nights for exactly one night. A separate key: a plural variation cannot leave the number out."
+    },
+    "nights this month": {
+      "comment": "W1.nights. Caption under the number of nights, for any number but 1."
+    },
+    "screenshots waiting": {
+      "comment": "W1.waiting. Shown under the number of screenshots in today's portion."
+    }
+  },
+  "version": "1.0"
+}
